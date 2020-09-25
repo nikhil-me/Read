@@ -9,9 +9,10 @@ https://stackoverflow.com/questions/43083246/requires-simple-explanation-on-arbi
 https://stackoverflow.com/questions/18211154/why-do-we-need-an-arbiter-in-mongodb-replication:  
 https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb: Pending  
 https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html: Pending 
-https://en.wikipedia.org/wiki/Quorum_(distributed_computing): Pending  
+https://en.wikipedia.org/wiki/Quorum_(distributed_computing):  
 https://scalegrid.io/blog/mongodb-write-concern-3-must-know-caveats/  
-https://en.wikipedia.org/wiki/Split-brain_(computing): Pending  
+https://en.wikipedia.org/wiki/Split-brain_(computing):  
+https://stuartmarks.wordpress.com/2020/09/22/incompatibilities-with-jdk-15-charsequence-isempty/: Pending  
 
 
 **SQL Parser**  
