@@ -26,7 +26,3 @@ https://marianogappa.github.io/software/2019/06/05/lets-build-a-sql-parser-in-go
 https://blazegraph.com/docs/bigdata_architecture_whitepaper.pdf: Pending  
 https://github.com/blazegraph/database: Pending  
 https://github.com/apache/shardingsphere: Pending  
-
-**Prep**  
-
-https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
