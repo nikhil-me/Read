@@ -4,6 +4,7 @@ https://medium.com/capital-one-tech/microservices-when-to-react-vs-orchestrate-c
 
 **Common Read**  
 
+
 https://stackoverflow.com/questions/16150409/why-does-a-mongodb-replica-set-require-an-odd-number-of-voting-nodes
 https://stackoverflow.com/questions/43083246/requires-simple-explanation-on-arbiters-role-in-a-given-mongodb-replica-set:  
 https://stackoverflow.com/questions/18211154/why-do-we-need-an-arbiter-in-mongodb-replication:  
@@ -26,3 +27,9 @@ https://marianogappa.github.io/software/2019/06/05/lets-build-a-sql-parser-in-go
 https://blazegraph.com/docs/bigdata_architecture_whitepaper.pdf: Pending  
 https://github.com/blazegraph/database: Pending  
 https://github.com/apache/shardingsphere: Pending  
+
+
+**TODO**
+
+https://www.thoughtworks.com/insights/blog/art-platform-thinking
+https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/
