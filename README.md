@@ -30,7 +30,7 @@
 
 ## Useful Links
 
-* [Work with multiple github accounts on a single machine] (https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
+* [Work with multiple github accounts on a single machine](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
 
 
 ## TODO
